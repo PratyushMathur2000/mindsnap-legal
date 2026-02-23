@@ -1,0 +1,2 @@
+# mindsnap-legal
+MindSnap Game
